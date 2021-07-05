@@ -1,6 +1,6 @@
 {
   "name": "@myslef-cli/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "myself-cli core",
   "author": "ChenZhaoLi <49938285+ChenZhaoLi@users.noreply.github.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@myself-cli/utils": "^1.0.1"
+    "@myself-cli/utils": "^1.0.2"
   },
   "gitHead": "8b51f95a40d3ca74cbca6fc86e8cb5152a3f258d"
 }
