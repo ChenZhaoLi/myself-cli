@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "@myself-cli/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "8b51f95a40d3ca74cbca6fc86e8cb5152a3f258d"
 }
