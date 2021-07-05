@@ -22,7 +22,7 @@
   "dependencies": {
     "@myself-cli/utils": "^1.0.4"
   },
-  "gitHead": "288774ea17f40aad12f6caecb2aafef9d6ea093f",
+  "gitHead": "9ef4617abbc59d75a02afe5e4f160ca7e4b6add4",
   "publishConfig": {
     "access": "public"
   }
